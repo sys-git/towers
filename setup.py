@@ -34,7 +34,7 @@ if sys.argv[-1] == 'publish':
     print("Tagging release as: {v}".format(v=version))
     os.system("git tag -a {v} -m 'version {v}'".format(v=version))
     os.system('git push --tags')
-    os.system('python setup.py bdist_wheel')
+    os.system('python setup.py sdist bdist_wheel')
     os.system('twine upload dist/*')
     sys.exit()
 elif sys.argv[-1] == 'test':
