@@ -4,8 +4,8 @@
 
 __title__ = 'towers'
 __description__ = 'Towers of Hanoi for Python'
-__url__ = 'https://github.com/sys-git/towers'
-__version__ = '0.1'
+__url__ = 'http://towers.readthedocs.io/en/latest'
+__version__ = '0.1.1'
 __author__ = 'Francis Horsman'
 __author_email__ = 'francis.horsman@gmail.com'
 __license__ = 'MIT'
