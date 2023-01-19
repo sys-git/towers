@@ -7,7 +7,7 @@ nose-leak-detector==0.1.5
 nose-parameterized==0.6.0
 nose-exclude==0.5.0
 pylint==1.7.2
-tox==2.8.2
+tox==4.3.5
 vulture==0.26
 radon==2.1.1
 sphinx==1.6.3
