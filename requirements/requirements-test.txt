@@ -1,6 +1,6 @@
 coverage==4.4.1
 flake8-colors==0.1.6
-mock==2.0.0
+mock==5.0.2
 nose==1.3.7
 nose-cov==1.6
 nose-leak-detector==0.1.5
